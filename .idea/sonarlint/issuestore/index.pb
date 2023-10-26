@@ -1,0 +1,25 @@
+
+B
+src/Lesson7/A.java,8\a\8a7c44115ea6c37c19369d29c60beeabd1b68cc4
+O
+src/Lesson30variant_3/Task.java,f\c\fc44234dd84f185ae64423deab6dda95766b1694
+E
+src/Lesson3/Task.java,c\f\cf4ae567ef651ebaa053525068ea922924609c33
+Q
+!src/Lesson1/TheFirstPrograms.java,5\f\5f562fb110aa7849a3e7c8016e1cc5d0f0088677
+O
+src/Lesson2/PrimitivesData.java,b\6\b68ebb2688b0244646cb9a47b408d6bfc4d0a071
+G
+src/variant_1/Task.java,4\2\42c9da8d29e657e591430c75a9045c07f4369885
+F
+src/Lesson29/Task.java,2\8\2870f8e34298841d244b48a011d4b3c93fee2660
+O
+src/Lesson30variant_2/Task.java,b\1\b1e32cbd4c66d0607fe73c6ab70e15c4b376a5bc
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/5/f/5f562fb110aa7849a3e7c8016e1cc5d0f0088677,4\d\4d5ea9c246eba8ed0f220534673a2fe15483a16e
+Å
+Q.idea/sonarlint/securityhotspotstore/8/a/8a7c44115ea6c37c19369d29c60beeabd1b68cc4,5\1\51f3cab967f46116097370b29dac1c9b30ecb1ea

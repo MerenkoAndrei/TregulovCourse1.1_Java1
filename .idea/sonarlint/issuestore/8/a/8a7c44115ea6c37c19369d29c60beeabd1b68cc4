@@ -1,0 +1,7 @@
+
+m
+java:S1104"RMake salary a static final constant or non-public and provide accessors if needed.(üø©»ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¬ãüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Æ«ÂŸ
+@	java:S106"+Replace this use of System.out by a logger.(ôşı·
+@	java:S106"+Replace this use of System.out by a logger.(ôşı·
